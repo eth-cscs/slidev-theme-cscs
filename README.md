@@ -9,7 +9,8 @@ A CSCS theme for [Slidev](https://github.com/slidevjs/slidev).
   https://sli.dev/guide/write-theme.html
 --->
 
-Run `npm run dev` to check out the slides for more details of how to start writing a theme
+Run `npm run dev` to check out the slides for more details of how to start writing a theme.
+
 See it in action at https://eth-cscs.github.io/swe4py/slides/
 
 ## Install (current)
