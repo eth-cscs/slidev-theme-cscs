@@ -39,8 +39,8 @@ The builtin layouts should be styled as expected: https://sli.dev/builtin/layout
 
 This theme provides two additional alternative cover layouts:
 
-- cover-machine (same as the default cover layout)
-- cover-building
+- cover-machine (default in light mode)
+- cover-building (default in dark mode)
 - cover-formulae
 
 ## Components
